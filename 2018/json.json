@@ -1,0 +1,75 @@
+{
+  "Year": "2018",
+  "Date": "8/9/2018",
+  "Calendar": {
+    "QueueStart": "09:00",
+    "EventStart": "11:00",
+    "EventEnd": "15:00"
+  },
+  "Participants": 999,
+  "TicketPrice": "60",
+  "ImageAssets": {
+    "Heading": "https://fsq.anthro.icu/WEB/WEB/FSQ_2018_BANNER.jpg",
+    "Poster": "https://fsq.anthro.icu/WEB/WEB/fsq2018_poster.jpg"
+  },
+  "Location": {
+    "LocationName": "E88 Bangkok",
+    "LocationDesc": {
+      "TH": "ใช้รถไฟฟ้าบีทีเอสสถานทีพระโขนง ประตูทางออกที่ 3",
+      "TH2": "เดินทางด้วยรถหรือด้วยแท็กซี่ ให้อยู่บนถนนสุขุมวิทที่ไปทางพระโขนง จุดตัดนี้จะอยู่ข้างหน้าไปรษณีย์พระโขนง ให้ตรงมาเรื่อยๆจนพบกับป้าย W DISTRICT ตึก E88 อยู่ในบริเวณดังกล่าว โปรดเช็คในแผนที่อีกครั้ง",
+      "EN": "Travel by BTS Skytrain BTS Phra Khanong Station Exit 3",
+      "EN2": "Travel by car or taxi Keep driving on Sukhumvit Road to Phra Khanong Intersection. This intersection is located in front of Phra Khanong Post Office. Observe the overpass near the intersection and the big logo of W DISTRICT. Our E88 Building is in W DISTRICT Check out the map."
+    },
+    "LocationGoogleMap": "https://www.google.com/maps?ll=13.714429,100.593183&z=16&t=m&hl=en-US&gl=TH&mapclient=embed&cid=8835792805094041314",
+    "LocationGoogleMap2": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.0704006294236!2d100.59076901420798!3d13.714185901860404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29fbec85978e9%3A0x7a9f0abe009526e2!2sE88+BANGKOK!5e0!3m2!1sen!2sth!4v1528899251358"
+  },
+  "CircleRegister": {
+    "CircleRegisterStatus": false,
+    "CircleRegisterPrice": "400",
+    "CircleRegisterMaxSP": 4
+  },
+  "Circles": {
+    "610046": {
+      "CircleName": "",
+      "CircleSP": "",
+      "CircleDetail": "",
+      "CircleLocation": "",
+      "CircleCutout": "",
+      "CircleMenu": "",
+      "CircleProduct": [
+        "6100007",
+        "6100008"
+      ]
+    }
+  },
+  "Products": {
+    "6100007": {
+      "ProductName": "",
+      "Circle": {
+        "CircleID": "",
+        "CircleName": "",
+        "CircleSP": "",
+        "CircleLocation": "",
+        "CircleCutout": "",
+        "CircleMenu": ""
+      },
+      "ProductDesc": "",
+      "ProductType": {
+        "TypeID": 1,
+        "TypeName": ""
+      },
+      "ProductCover": "",
+      "ProductImg1": "",
+      "ProductImg2": "",
+      "ProductPrice": ""
+    }
+  },
+  "ProductType": [
+    {
+      "TypeID": "1",
+      "TypeNameTH": "โดจิน",
+      "TypeNameEN": "Doujin/Comic",
+      "TypeProductNumber": 0
+    }
+  ]
+}

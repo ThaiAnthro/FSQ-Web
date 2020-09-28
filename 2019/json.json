@@ -1,0 +1,78 @@
+{
+  "EventStatus": false,
+  "Year": "2019",
+  "Date": "7/9/2019",
+  "Calendar": {
+    "QueueStart": "09:00",
+    "EventStart": "11:00",
+    "EventEnd": "15:00"
+  },
+  "Participants": 999,
+  "TicketPrice": "60",
+  "ImageAssets": {
+    "Heading": "https://fsq.anthro.icu/WEB/WEB/fsq19_banner.jpg",
+    "Poster": "https://fsq.anthro.icu/WEB/WEB/fsq19_poster.jpg"
+  },
+  "Location": {
+    "LocationName": "FL.6 Knowledge Exchange for Innovation Center (KX)",
+    "LocationDesc": {
+      "TH": "ตึก KX อยู่ห่างจากสถานีรถไฟฟ้า วงเวียนใหญ่ (S8) เพียง 200 เมตรเท่านั้น",
+      "TH2": "การเดินทางด้วยรถไฟฟ้า BTS - ตึก KX อยู่ห่างจากสถานีรถไฟฟ้า วงเวียนใหญ่ (S8) เพียง 200 เมตรเท่านั้น",
+      "EN": "KX Building is near 'Wongwian Yai BTS Station' (S8) walk only 200 meter",
+      "EN2": "Travel with BTS - KX Building is near 'Wongwian Yai Station' (S8) walk only 200 meter",
+      "JA": "ＫＸビルはＢＴＳ線の「Wongwian Yai」駅（S8 の駅）から200メートルです",
+      "JA2": "ＢＴＳ電車で ‐ ＫＸビルはＢＴＳ線の「Wongwian Yai」駅（8番の駅）から200メートルです。"
+    },
+    "LocationGoogleMap": "https://www.google.com/maps?ll=13.7205,100.498368&z=18&t=m&hl=en&gl=SG&mapclient=embed&cid=16307845293875084631",
+    "LocationGoogleMap2": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d968.992140516085!2d100.4983116736107!3d13.7203531795791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe2511ae461733d57!2sThe+Knowledge+Exchange%3A+KX!5e0!3m2!1sen!2ssg!4v1553948041694!5m2!1sen!2ssg"
+  },
+  "CircleRegister": {
+    "CircleRegisterStatus": false,
+    "CircleRegisterPrice": "400",
+    "CircleRegisterMaxSP": 2
+  },
+  "Circles": {
+    "610046": {
+      "CircleName": "",
+      "CircleSP": "",
+      "CircleDetail": "",
+      "CircleLocation": "",
+      "CircleCutout": "",
+      "CircleMenu": "",
+      "CircleProduct": [
+        "6100007",
+        "6100008"
+      ]
+    }
+  },
+  "Products": {
+    "6100007": {
+      "ProductName": "",
+      "Circle": {
+        "CircleID": "",
+        "CircleName": "",
+        "CircleSP": "",
+        "CircleLocation": "",
+        "CircleCutout": "",
+        "CircleMenu": ""
+      },
+      "ProductDesc": "",
+      "ProductType": {
+        "TypeID": 1,
+        "TypeName": ""
+      },
+      "ProductCover": "",
+      "ProductImg1": "",
+      "ProductImg2": "",
+      "ProductPrice": ""
+    }
+  },
+  "ProductType": [
+    {
+      "TypeID": "1",
+      "TypeNameTH": "โดจิน",
+      "TypeNameEN": "Doujin/Comic",
+      "TypeProductNumber": 0
+    }
+  ]
+}
